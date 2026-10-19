@@ -16,7 +16,7 @@
 
 ## ⭐ Featured projects
 
-> 精选项目：把你最想展示的作品放在这里，每个项目一两句话介绍。
+> Products and tools built through an engineering and product lens.
 
 ### 🧰 [personal-website](https://github.com/lzyhappylife/personal-website)
 
@@ -34,7 +34,7 @@
 
 ## ✍️ Writing
 
-> 写作：放你的博客、公众号或其他平台的文章链接。
+> I write about AI products through an engineering and product lens.
 
 - [给 Agent 少喂一点：上下文信号密度比 token 数量更重要](https://mp.weixin.qq.com/s/Ulw0d2oQXb9uSWP5XLEGGw)
 - [从围堵豆包到封杀Muse，大厂筑起的生态墙又能撑多久？](https://mp.weixin.qq.com/s/P4Me3Hu9mKnNVwfrSn-p2w)

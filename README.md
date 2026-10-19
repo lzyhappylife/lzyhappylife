@@ -38,29 +38,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,md" alt="技术栈" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lzyhappylife&show_icons=true&theme=default&hide_title=true&count_private=true" alt="GitHub 统计" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzyhappylife&layout=compact&theme=default" alt="常用语言" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lzyhappylife&theme=default" alt="连续提交记录" />
-</p>
-
----
-
 ## About
 
 - 一句话身份 / 职业方向

@@ -1,13 +1,17 @@
-# Hi, I'm 楼致远 👋
+# Hi, I'm Louzhiyuan 👋
 
 [![点击启动楼致远的个人网站](assets/portfolio-launch.svg)](https://lzyhappylife.github.io/personal-website/)
 
-<p align="center"><sub>点击上方终端，进入我的个人网站</sub></p>
+<p align="center"><sub>Click the Clear Light terminal to launch my personal website</sub></p>
 
-> 这里写一句自我介绍：你是谁、在做什么、关注什么。
+> I moved from embedded software engineering into AI product management.
+> I build AI products.
+> I also create tools and reusable skills that turn complex technical context into clearer product decisions.
+> AI Product — turning complex technology into products users can actually use.
+> and following the real-world adoption of Agents and LLMs.
 
 🌐 [个人网站](https://lzyhappylife.github.io/personal-website/) · ✉️ [邮箱](mailto:454035647@qq.com)
-
+📕 [小红书](https://www.xiaohongshu.com/user/profile/61c00b8f000000001000c0a3)
 ---
 
 ## ⭐ Featured projects
@@ -40,8 +44,8 @@
 
 ## About
 
-- 一句话身份 / 职业方向
-- 正在学习或关注的方向
-- 其他想让别人知道的点
+- AI Builder|PM，
+- Focus on Agent Engineering & AI Product
+- Think → Act → Review → Consolidate, and repeat
 
 ---

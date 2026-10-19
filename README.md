@@ -4,7 +4,7 @@
 
 <p align="center"><sub>Click the Clear Light terminal to launch my personal website</sub></p>
 
-> I moved from embedded software engineering into AI product management.
+> I moved from Product Operation into AI product management.
 > I build AI products.
 > I also create tools and reusable skills that turn complex technical context into clearer product decisions.
 > AI Product — turning complex technology into products users can actually use.

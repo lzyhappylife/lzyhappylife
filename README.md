@@ -1,8 +1,8 @@
 # Hi, I'm Louzhiyuan 👋
 
-[![点击启动楼致远的个人网站](assets/portfolio-launch.svg)](https://lzyhappylife.github.io/personal-website/)
+[![Launch Louzhiyuan's personal website](assets/portfolio-launch.svg)](https://lzyhappylife.github.io/personal-website/)
 
-<p align="center"><sub>Click the Clear Light terminal to launch my personal website</sub></p>
+<p align="center"><sub>Open the portfolio — see ideas become shipped systems</sub></p>
 
 > I moved from Product Operation into AI product management.
 > I build AI products.

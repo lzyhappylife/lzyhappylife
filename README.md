@@ -32,9 +32,9 @@
 
 > 写作：放你的博客、公众号或其他平台的文章链接。
 
-- [文章标题一](https://example.com)
-- [文章标题二](https://example.com)
-- [文章标题三](https://example.com)
+- [给 Agent 少喂一点：上下文信号密度比 token 数量更重要](https://mp.weixin.qq.com/s/Ulw0d2oQXb9uSWP5XLEGGw)
+- [从围堵豆包到封杀Muse，大厂筑起的生态墙又能撑多久？](https://mp.weixin.qq.com/s/P4Me3Hu9mKnNVwfrSn-p2w)
+- [从发现错误到持续改进，企业 AI 幻觉治理的完整闭环](https://mp.weixin.qq.com/s/KqAvvznbZT4MpgFBnR2Qsg)
 
 ---
 

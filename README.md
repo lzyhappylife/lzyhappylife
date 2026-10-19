@@ -22,7 +22,7 @@
 
 A lightweight, responsive personal site with dark mode, deployed on GitHub Pages.
 
-### 🎯 [Xiao Zhi Support · Chatflow Evaluation & Optimization](https://udify.app/chat/0HxeLfESFNkN6Tz9)
+### 🎯 [Xiao Zhi Customer Support · Chatflow Evaluation & Optimization](https://udify.app/chat/0HxeLfESFNkN6Tz9)
 
 Built a scored 25-question evaluation loop for the Wushaxia Valley customer-support scenario. Isolated intent routing, rule retrieval, real-time lookup, and refusal-boundary failures, raising the final regression pass rate from 13/25 (52%) to 25/25 (100%).
 

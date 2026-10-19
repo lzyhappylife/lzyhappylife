@@ -20,19 +20,19 @@
 
 ### 🧰 [personal-website](https://github.com/lzyhappylife/personal-website)
 
-纯静态响应式个人主页，支持深色模式，托管在 GitHub Pages。
+A lightweight, responsive personal site with dark mode, deployed on GitHub Pages.
 
-### 🎯 [小致客服 · Chatflow 评测与优化](https://udify.app/chat/0HxeLfESFNkN6Tz9)
+### 🎯 [Xiao Zhi Support · Chatflow Evaluation & Optimization](https://udify.app/chat/0HxeLfESFNkN6Tz9)
 
-围绕《五杀峡谷》客服场景搭建可计分的 25 题评测闭环，定位意图分流、规则召回、实时查询和拒答边界问题，将最终回归通过率从 13/25（52%）提升到 25/25（100%）。
+Built a scored 25-question evaluation loop for the Wushaxia Valley customer-support scenario. Isolated intent routing, rule retrieval, real-time lookup, and refusal-boundary failures, raising the final regression pass rate from 13/25 (52%) to 25/25 (100%).
 
-### 🤝 [Learning Partner · AI 学习陪伴助手](https://udify.app/chat/PocOUbKPp6ocYKi8)
+### 🤝 [Learning Partner · AI Study Companion](https://udify.app/chat/PocOUbKPp6ocYKi8)
 
-基于 Dify Cloud 和课程知识库，支持面试辅导、随堂测验、自动判分、思维导图、联网搜索和笔记整理，形成学习、练习、复盘和知识库迭代闭环。
+Built with Dify Cloud and a course knowledge base to support interview coaching, quizzes, automated grading, mind maps, web search, and note organization—forming a continuous learn → practice → review → knowledge-base iteration loop.
 
-### 🧪 LoRA 微调与 Dify 部署实践
+### 🧪 LoRA Fine-Tuning & Dify Deployment
 
-以 Qwen2.5-0.5B 为例，走通云端实例部署、LLaMA Factory 数据格式转换、训练参数配置、API 暴露和 Dify 对话 Agent 测试，记录从模型训练到应用验证的完整路径。
+Fine-tuned Qwen2.5-0.5B and connected it to Dify, covering cloud instance setup, LLaMA Factory dataset conversion, training configuration, API exposure, and conversational Agent validation.
 
 ---
 
